@@ -1,0 +1,56 @@
+@font-face {
+	font-family:'NotoSansKR Thin';
+	font-style:normal;
+	src:local('NotoSans-Thin');
+	
+	/*src:url(../fonts/notosans/NotoSans-Thin.eot);*/
+	src:url(../fonts/notosans/NotoSans-Thin.otf#iefix) format('embedded-opentype'),url(../fonts/notosans/NotoSans-Thin.woff2) format('woff2'),url(../fonts/notosans/NotoSans-Thin.woff) format('woff'),url(../fonts/notosans/NotoSans-Thin.otf) format('truetype')
+}
+
+@font-face {
+	font-family:'NotoSansKR Light';
+	font-style:normal;
+	src:local('NotoSans-Light');
+
+	src:url(../fonts/notosans/NotoSans-Light.otf#iefix) format('embedded-opentype'),url(../fonts/notosans/NotoSans-Light.woff2) format('woff2'),url(../fonts/notosans/NotoSans-Light.woff) format('woff'),url(../fonts/notosans/NotoSans-Light.otf) format('truetype')
+}
+
+@font-face {
+	font-family:'NotoSansKR DemiLight';
+	font-style:normal;
+	src:local('NotoSans-DemiLight');
+
+	src:url(../fonts/notosans/NotoSans-DemiLight.otf#iefix) format('embedded-opentype'),url(../fonts/notosans/NotoSans-DemiLight.woff2) format('woff2'),url(../fonts/notosans/NotoSans-DemiLight.woff) format('woff'),url(../fonts/notosans/NotoSans-DemiLight.otf) format('truetype')
+}
+
+@font-face {
+	font-family:'NotoSansKR Regular';
+	font-style:normal;
+	src:local('NotoSans-Regular');
+
+	src:url(../fonts/notosans/NotoSans-Regular.otf#iefix) format('embedded-opentype'),url(../fonts/notosans/NotoSans-Regular.woff2) format('woff2'),url(../fonts/notosans/NotoSans-Regular.woff) format('woff'),url(../fonts/notosans/NotoSans-Regular.otf) format('truetype')
+}
+
+@font-face {
+	font-family:'NotoSansKR Medium';
+	font-style:normal;
+	src:local('NotoSans-Medium');
+
+	src:url(../fonts/notosans/NotoSans-Medium.otf#iefix) format('embedded-opentype'),url(../fonts/notosans/NotoSans-Medium.woff2) format('woff2'),url(../fonts/notosans/NotoSans-Medium.woff) format('woff'),url(../fonts/notosans/NotoSans-Medium.otf) format('truetype')
+}
+
+@font-face {
+	font-family:'NotoSansKR Bold';
+	font-style:normal;
+	src:local('NotoSans-Bold');
+
+	src:url(../fonts/notosans/NotoSans-Bold.otf#iefix) format('embedded-opentype'),url(../fonts/notosans/NotoSans-Bold.woff2) format('woff2'),url(../fonts/notosans/NotoSans-Bold.woff) format('woff'),url(../fonts/notosans/NotoSans-Bold.otf) format('truetype')
+}
+
+@font-face {
+	font-family:'NotoSansKR Black';
+	font-style:normal;
+	src:local('NotoSans-Black');
+
+	src:url(../fonts/notosans/NotoSans-Black.otf#iefix) format('embedded-opentype'),url(../fonts/notosans/NotoSans-Black.woff2) format('woff2'),url(../fonts/notosans/NotoSans-Black.woff) format('woff'),url(../fonts/notosans/NotoSans-Black.otf) format('truetype')
+}
